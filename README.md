@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente, sou um estudante de engenharia da computação<br> no centro de informática da UFPE, com foco na area de ML, LLM e visão computacional
+Atualmente, sou um estudante de engenharia da computação no centro de informática da UFPE, com foco na area de ML, LLM e visão computacional
 
 
 ## 🌐 Socials:
